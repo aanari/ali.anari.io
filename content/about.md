@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 date: "2023-03-18"
+description: "About Ali Anari"
 ---
 
 Entrepreneur, Technologist, Passionate Innovator. Let's make the world a better place.
