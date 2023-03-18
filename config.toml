@@ -9,6 +9,7 @@ pygmentscodefencesguesssyntax = true
 paginate=4
 
 [params]
+favicon = "/favicon.ico"
 mode="toggle"
 useCDN=true
 description = "Personal website for Ali Anari"
