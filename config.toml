@@ -1,0 +1,39 @@
+baseURL = "https://ali.anari.io/"
+languageCode = "en-us"
+title = "Ali Anari"
+theme = "archie"
+copyright = "© Ali Anari"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+paginate=4
+
+[params]
+mode="toggle"
+useCDN=true
+description = "Personal website for Ali Anari"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/aanari"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
