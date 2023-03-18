@@ -30,7 +30,7 @@ These were the most useful plugins for me, that stood the test of time.
 * [vim-tmux-nagivator](https://github.com//christoomey/vim-tmux-navigator): For vim users, allows you to navigate seamlessly between vim and tmux splits using a consistent set of hotkeys.
 
 
-## Problmatic Plugins
+## Problematic Plugins
 
 These are plugins that are well regarded by the developer community, and otherwise well engineered, but that I eventually removed from my config for various reasons.
 
