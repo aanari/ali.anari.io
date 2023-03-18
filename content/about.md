@@ -25,6 +25,12 @@ Financial Modeling & Forecasting • Agile Process Improvement • Strategic Pla
 - [(2020) LeetCode Python Solutions](https://www.amazon.com/LeetCode-Python-Solutions-Ali-Anari-ebook/dp/B08H1SHN1Y/ref=sr_1_1?crid=1HNL29GQ0KMOO&keywords=ali+anari&qid=1679158394&sprefix=ali+anar%2Caps%2C177&sr=8-1)
 - [(2020) LeetCode C++ Solutions](https://www.amazon.com/LeetCode-C-Solutions-Ali-Anari-ebook/dp/B08H3SSLH2/ref=sr_1_2?crid=1HNL29GQ0KMOO&keywords=ali+anari&qid=1679158394&sprefix=ali+anar%2Caps%2C177&sr=8-2)
 
+## Open Source Projects
+
+- [(Python) pg-materialize](https://github.com/aanari/pg-materialize)
+- [(Python) metapdf](https://github.com/aanari/metaPdf)
+- [(Perl) NewRelic::Agent](https://github.com/aanari/NewRelic-Agent)
+
 ## Quick Links
 
 - [GitHub](https://github.com/aanari)
