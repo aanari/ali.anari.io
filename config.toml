@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 paginate=4
 
 [params]
-og_image = "https://anari.io/og-image.png"
+og_image = "https://ali.anari.io/og-image.png"
 favicon = "/favicon.ico"
 mode="toggle"
 useCDN=true
