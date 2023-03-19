@@ -1,5 +1,5 @@
 ---
-title: "Supercharge your ZSH with zinit"
+title: "Supercharged ZSH with zinit"
 date: 2023-03-16
 draft: false
 description: "Easy configuration examples"
