@@ -10,7 +10,7 @@ tags: [productivity]
 
 There are many ways to [track time usage](https://support.apple.com/guide/iphone/view-your-screen-time-summary-iph24dcd4fb8/ios), [schedule breaks](https://pomofocus.io/), and otherwise stay on top of productivity tasks.
 
-However, I found it too easy to open links leading to other links, and ultimately spend way too much time on news and social media, even when my main priority was researching the solution to some technical problem. 5 minutes quickly became 30 minutes, which could even become 2 hours.
+However, I found it far too easy to open links leading to other links, and ultimately spend way too much time on news and social media, even when my main priority was researching the solution to some technical problem. 5 minutes quickly became 30 minutes, which could even become 2 hours.
 
 The chain of distraction was all too familiar:
 
@@ -30,9 +30,9 @@ My solution to this problem was to completely abolish my access of these "time-w
 
 I am still allowed to consume this content from my smart phone or tablet; however I am carefully using screen tracking when doing so from those devices.
 
-There are definitely more clever solutions and complete databases of websites that volunteers maintain online to manage this for you, such as [https://github.com/StevenBlack/hosts](https://github.com/StevenBlack/hosts). My criteria was that I wanted something very lightweight, portable, and fully under my cown ontrol, but I may try this unified plugin-based hostfile solution in the future.
+There are definitely more clever solutions and complete databases of websites that volunteers maintain online to manage this for you, such as [https://github.com/StevenBlack/hosts](https://github.com/StevenBlack/hosts). My criteria was that I wanted something very lightweight, portable, and fully under my own control, but I may try this unified plugin-based hostfile solution in the future.
 
-I also realize that in theory, it would be trivial to "cheat" by editing your hosts file repeatedly to remove then re-add these entries during the work day. In practice though, the inconvience of having to do so has kept me honest.
+I also realize that in theory, it's trivial to "cheat" by editing your hosts file repeatedly to remove, then re-add these entries during the work day. In practice though, the inconvience of having to do so has kept me honest.
 
 ## /etc/hosts
 
@@ -72,4 +72,4 @@ I also realize that in theory, it would be trivial to "cheat" by editing your ho
 0.0.0.0	whatsapp.com
 ```
 
-**Caveat:** YouTube and Twitch are still allowed, but that may change in the future if they end up hindering productivity.
+**Caveat:** [YouTube](https://youtube.com) and [Twitch](https://twitch.tv) are still allowed, but that may change in the future if they end up hindering productivity.
