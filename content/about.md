@@ -8,17 +8,8 @@ Entrepreneur, Technologist, Passionate Innovator. Let's make the world a better 
 
 ## Skills
 
-### Programming
-
-Python • C++ • Go • Rust • Java • TypeScript • SQL • NoSQL • CUDA
-
-### Statistics
-
-Machine Learning • Deep Learning • Predictive Modeling • NLP • Data Mining
-
-### Business
-
-Financial Modeling & Forecasting • Agile Process Improvement • Strategic Planning
+- **Programming:** Python • C++ • Go • Rust • Java • TypeScript • SQL • NoSQL • CUDA
+- **Statistics:** Machine Learning • Deep Learning • Predictive Modeling • Data Mining
 
 ## Publications
 
@@ -31,6 +22,16 @@ Financial Modeling & Forecasting • Agile Process Improvement • Strategic Pla
 - [(Python) pg-materialize](https://github.com/aanari/pg-materialize)
 - [(Python) metapdf](https://github.com/aanari/metaPdf)
 - [(Perl) NewRelic::Agent](https://github.com/aanari/NewRelic-Agent)
+
+## System
+
+- [(CPU) Ryzen 9 7950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-7950x)
+- [(GPU) GeForce RTX 4090](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/)
+- [(RAM) Ripjaws S5](https://www.newegg.com/g-skill-32gb-288-pin-ddr5-sdram/p/N82E16820374372?Item=N82E16820374372)
+- [(HDD) 980 PRO NVMe](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-2tb-mz-v8p2t0b-am/)
+- [(Mobo) X670 AORUS ELITE AX](https://www.gigabyte.com/Motherboard/X670-AORUS-ELITE-AX-rev-10)
+- [(Keyboard) REALFORCE R2 PFU Limited Edition](https://www.amazon.com/REALFORCE-PFU-Limited-Keyboard-Black/dp/B07K9LLDYG)
+- [(Mouse) Razer Basilisk V3 Pro](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro)
 
 ## Quick Links
 
