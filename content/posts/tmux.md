@@ -1,8 +1,8 @@
 ---
-title: "The 6 best tmux plugins"
+title: "The 6 Best Tmux Plugins"
 date: 2022-10-24
 draft: false
-description: "Quick tmux plugins guide"
+description: "A quick plugin guide"
 tags: [tmux, shell]
 ---
 

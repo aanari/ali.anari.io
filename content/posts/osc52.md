@@ -1,5 +1,5 @@
 ---
-title: "Yanking text with OSC52"
+title: "Yanking Text with OSC52"
 date: 2022-08-02
 draft: false
 description: "Also works over SSH and tmux"

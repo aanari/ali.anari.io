@@ -1,8 +1,8 @@
 ---
-title: "Monorepo migration"
+title: "Monorepo Migration"
 date: 2022-10-20
 draft: false
-description: "Useful script"
+description: "Useful shell script"
 tags: [git, shell]
 ---
 
