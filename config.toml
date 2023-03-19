@@ -6,7 +6,8 @@ copyright = "© Ali Anari"
 pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-paginate=4
+paginate = 4
+googleAnalytics = "G-TYK2KNT445"
 
 [params]
 og_image = "https://ali.anari.io/og-image.png"
