@@ -30,8 +30,8 @@ Entrepreneur, Technologist, Passionate Innovator. Let's make the world a better 
 - [(RAM) Ripjaws S5](https://www.newegg.com/g-skill-32gb-288-pin-ddr5-sdram/p/N82E16820374372?Item=N82E16820374372)
 - [(HDD) 980 PRO NVMe](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-2tb-mz-v8p2t0b-am/)
 - [(Mobo) X670 AORUS ELITE AX](https://www.gigabyte.com/Motherboard/X670-AORUS-ELITE-AX-rev-10)
-- [(Keyboard) REALFORCE R2 PFU Limited Edition](https://www.amazon.com/REALFORCE-PFU-Limited-Keyboard-Black/dp/B07K9LLDYG)
-- [(Mouse) Razer Basilisk V3 Pro](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro)
+- [(Keyboard) R2 PFU Limited Edition](https://www.amazon.com/REALFORCE-PFU-Limited-Keyboard-Black/dp/B07K9LLDYG)
+- [(Mouse) Basilisk V3 Pro](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro)
 
 ## Quick Links
 
