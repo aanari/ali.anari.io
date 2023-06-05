@@ -16,7 +16,7 @@ None of these are affiliate links.
 
 - [Alpha Lipoic Acid](https://www.amazon.com/gp/product/B01CKLMWYS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Alpha Yohimbine](https://www.amazon.com/gp/product/B09MML3Y2H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [Anari](https://anari.io) (Coming Soon...)
+- [Anari](https://anari.io)
 - [CoQ-10](https://www.amazon.com/gp/product/B0014BDZ88/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Fish Oil](https://www.amazon.com/gp/product/B01BTBZWBU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Psyllium Husks](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132)
