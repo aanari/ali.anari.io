@@ -26,9 +26,9 @@ None of these are affiliate links.
 - [Vitamin D3+K2](https://www.amazon.com/gp/product/B07255MPRN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Afternoon
-- [Bone Marrow & Liver](https://shop.heartandsoil.co/products/bone-marrow-liver)
 - [Boron](https://www.amazon.com/gp/product/B07X27P7V4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [Magnesium](https://www.amazon.com/gp/product/B09QNCMLT4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Fish Oil](https://www.amazon.com/gp/product/B01BTBZWBU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Magnesium](https://www.amazon.com/Designs-Health-Magnesium-Buffered-Capsules/dp/B005A6964U/ref=sr_1_8?crid=2YKNA95JN3DGO&keywords=magnesium&qid=1686541902&sprefix=magnesiu%2Caps%2C171&sr=8-8&th=1)
 - [N-Acetyl-L-Cysteine](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Probiotics](https://seed.com/)
 - [Psyllium Husks](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132)
