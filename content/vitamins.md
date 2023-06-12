@@ -8,7 +8,7 @@ description: "Ali's Daily Stack"
 
 A lot of friends and family members have asked me what vitamins and dietary supplements I take on a regular basis, so here's the latest list, broken down by time of day.
 
-Shameless plug for my own supplement [Anari](https://anari.io), which allows me to consume 50% less caffeine per day as before.
+Shameless plug for my own supplement [Anari](https://anari.io), which has allowed me to consume 50% less caffeine per day as before.
 
 None of these are affiliate links.
 
