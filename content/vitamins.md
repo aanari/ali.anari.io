@@ -4,11 +4,13 @@ date: "2023-03-18"
 description: "Ali's Daily Stack"
 ---
 
-**UPDATED: Jun 11, 2023**
+**UPDATED: Jun 18, 2023**
 
 A lot of friends and family members have asked me what vitamins and dietary supplements I take on a regular basis, so here's the latest list, broken down by time of day.
 
-Shameless plug for my own supplement [Anari](https://anari.io), which has allowed me to consume 50% less caffeine per day as before.
+Shameless plug for my own supplement [Anari](https://anari.io), which has allowed me to consume 75% less caffeine than before.
+
+I also recently started [Metformin ER](https://agelessrx.com/buy-metformin/) for the longevity benefits, but please talk to your doctor first.
 
 None of these are affiliate links.
 
@@ -22,16 +24,18 @@ None of these are affiliate links.
 - [Fish Oil](https://www.amazon.com/gp/product/B01BTBZWBU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [N-Acetyl-L-Cysteine](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Psyllium Husks](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132)
+- [Turkesterone](https://gorillamind.com/products/turkesterone)
 - [Vitamin A-D-K](https://shop.bulletproof.com/products/vitamins-a-d-k-30-count)
 - [Vitamin D3+K2](https://www.amazon.com/gp/product/B07255MPRN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Afternoon
 - [Boron](https://www.amazon.com/gp/product/B07X27P7V4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Fish Oil](https://www.amazon.com/gp/product/B01BTBZWBU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [Magnesium](https://www.amazon.com/Designs-Health-Magnesium-Buffered-Capsules/dp/B005A6964U/ref=sr_1_8?crid=2YKNA95JN3DGO&keywords=magnesium&qid=1686541902&sprefix=magnesiu%2Caps%2C171&sr=8-8&th=1)
+- [Magnesium](https://www.amazon.com/gp/product/B005A6964U/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [N-Acetyl-L-Cysteine](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Probiotics](https://seed.com/)
 - [Psyllium Husks](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132)
+- [Turkesterone](https://gorillamind.com/products/turkesterone)
 - [Vitamin E](https://www.amazon.com/dp/B002HZ9BJW?ref=ppx_yo2ov_dt_b_product_details&th=1)
 - [Zinc](https://www.amazon.com/gp/product/B0918RXWRY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
