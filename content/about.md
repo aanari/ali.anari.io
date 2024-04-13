@@ -25,14 +25,26 @@ Entrepreneur, Technologist, Passionate Innovator. Let's make the world a better 
 
 ## System
 
-- **CPU:** [Ryzen 9 7950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-7950x)
-- **GPU:** [GeForce RTX 4090](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/)
-- **RAM:** [Ripjaws S5](https://www.newegg.com/g-skill-32gb-288-pin-ddr5-sdram/p/N82E16820374372?Item=N82E16820374372)
-- **HDD:** [980 PRO NVMe](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-2tb-mz-v8p2t0b-am/)
-- **Mobo:** [X670 AORUS ELITE AX](https://www.gigabyte.com/Motherboard/X670-AORUS-ELITE-AX-rev-10)
-- **Keyboard:** [R2 PFU Limited Edition](https://www.amazon.com/REALFORCE-PFU-Limited-Keyboard-Black/dp/B07K9LLDYG)
-- **Mouse:** [Basilisk V3 Pro](https://www.razer.com/gaming-mice/razer-basilisk-v3-pro)
-- **Monitor:** [49" Odyssey G9 QHD](https://www.samsung.com/us/computing/monitors/gaming/49-crg9-dual-qhd-curved-qled-gaming-monitor-lc49rg90ssnxza/)
+```
+❯ neofetch
+                    'c.          ali@tau
+                 ,xNMM.          -------
+               .OMMMMo           OS: macOS 14.4.1 23E224 arm64
+               OMMM0,            Host: Mac15,9
+     .;loddo:' loolloddol;.      Kernel: 23.4.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 10 days, 13 hours, 39 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 88 (brew)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 2624x1696@2x
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Amethyst
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Terminal: tmux
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   CPU: Apple M3 Max
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   GPU: Apple M3 Max
+    kMMMMMMMMMMMMMMMMMMMMMMd     Memory: 15895MiB / 131072MiB
+     ;KMMMMMMMWXXWMMMMMMMk.
+       .cooc,.    .,coo:.
+```
 
 ## Quick Links
 
