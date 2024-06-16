@@ -31,7 +31,6 @@ None of these are affiliate links.
 - [EPA](https://www.amazon.com/gp/product/B06XSD83PC/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1)
 - [Magnesium](https://www.amazon.com/dp/B07KWM4C5L)
 - [NAC](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-- [Probiotics](https://seed.com/)
 - [Psyllium](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132)
 - [Turkesterone](https://gorillamind.com/products/turkesterone)
 
