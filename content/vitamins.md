@@ -34,7 +34,6 @@ None of these are affiliate links.
 - [Probiotics](https://seed.com/)
 - [Psyllium](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132)
 - [Turkesterone](https://gorillamind.com/products/turkesterone)
-- [Zinc](https://www.amazon.com/gp/product/B0918RXWRY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Evening
 - [Calm Sleep](https://www.amazon.com/dp/B09345846G?ref=ppx_yo2ov_dt_b_product_details&th=1)
