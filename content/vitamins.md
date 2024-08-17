@@ -18,7 +18,7 @@ None of these are affiliate links.
 
 - [Anari](https://anari.io), 1 pill
 - [CoQ-10](https://www.amazon.com/gp/product/B0014BDZ88/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), 100 mg
-- Metformin ER, 1,000 mg
+- Metformin ER, 1,000 mg (Rx)
 - [NAC](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details), 1,200 mg
 - [Psyllium](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132), 1.5 g
 - [Rauwolscine](https://gorillamind.com/products/rauwolscine), 6 mg
