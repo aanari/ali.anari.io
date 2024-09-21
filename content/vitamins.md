@@ -4,7 +4,7 @@ date: "2023-03-18"
 description: "Ali's Daily Stack"
 ---
 
-**UPDATED: July 15, 2024**
+**UPDATED: September 20, 2024**
 
 A lot of friends and family members have asked me what vitamins and dietary supplements I take on a regular basis, so here's the latest list, broken down by time of day.
 
@@ -20,7 +20,7 @@ None of these are affiliate links.
 - [CoQ-10](https://www.amazon.com/gp/product/B0014BDZ88/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), 100 mg
 - Metformin ER, 1,000 mg (Rx)
 - [NAC](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details), 1,200 mg
-- [Psyllium](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132), 1.5 g
+- [Fiber Blend](https://www.vitaminshoppe.com/p/fiber-blend-300-capsules/vs-1191), 1.5 g
 - [Rauwolscine](https://gorillamind.com/products/rauwolscine), 6 mg
 - [Taurine](https://www.amazon.com/Life-Extension-Taurine-1000-Capsules/dp/B000LVDLR2/), 2 g
 - [Turkesterone](https://gorillamind.com/products/turkesterone), 500 mg
@@ -33,7 +33,6 @@ None of these are affiliate links.
 - [Magnesium](https://www.amazon.com/dp/B07KWM4C5L), 144 mg
 - Metformin ER, 500 mg (Rx)
 - [NAC](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details), 600 mg
-- [Psyllium](https://www.vitaminshoppe.com/p/psyllium-husk-acidophilus-100-capsules/vs-1132), 1.5g
 - Tadalafil, 5 mg (Rx)
 - [Taurine](https://www.amazon.com/Life-Extension-Taurine-1000-Capsules/dp/B000LVDLR2/), 1 g
 - [Turkesterone](https://gorillamind.com/products/turkesterone), 500 mg
