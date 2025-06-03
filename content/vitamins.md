@@ -4,19 +4,16 @@ date: "2023-03-18"
 description: "Ali's Daily Stack"
 ---
 
-**UPDATED: September 20, 2024**
+**UPDATED: June 3, 2025**
 
 A lot of friends and family members have asked me what vitamins and dietary supplements I take on a regular basis, so here's the latest list, broken down by time of day.
 
-Shameless plug for my own supplement [Anari](https://anari.io), which has allowed me to consume 75% less caffeine than before.
-
-I also recently started [Metformin ER](https://en.wikipedia.org/wiki/Metformin) for the longevity benefits and [Tadalafil](https://en.wikipedia.org/wiki/Tadalafil) for leaner body mass and improved endothelial function, but please talk to your doctor first.
+I also take [Metformin ER](https://en.wikipedia.org/wiki/Metformin) for the longevity benefits and [Tadalafil](https://en.wikipedia.org/wiki/Tadalafil) for leaner body mass and improved endothelial function, but please talk to your doctor first.
 
 None of these are affiliate links.
 
 ## Morning
 
-- [Anari](https://anari.io), 1 pill
 - [CoQ-10](https://www.amazon.com/gp/product/B0014BDZ88/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), 100 mg
 - Metformin ER, 1,000 mg (Rx)
 - [NAC](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details), 1,200 mg
@@ -28,7 +25,6 @@ None of these are affiliate links.
 
 ## Afternoon
 
-- [Boron](https://www.amazon.com/gp/product/B07X27P7V4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), 10 mg
 - [EPA](https://www.amazon.com/gp/product/B06XSD83PC/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1), 1 g
 - [Magnesium](https://www.amazon.com/dp/B07KWM4C5L), 144 mg
 - Metformin ER, 500 mg (Rx)
