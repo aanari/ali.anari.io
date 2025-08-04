@@ -41,4 +41,5 @@ A lot of friends and family members have asked me what medications, vitamins, an
 
 - [Cocoa Flavanols](https://blueprint.bryanjohnson.com/products/cocoa-powder), 15 g
 - [Extra Virgin Olive Oil](https://blueprint.bryanjohnson.com/products/premium-extra-virgin-olive-oil), 30 mL
+- [Muddy Honey](https://muddyhoney.world/shop/ols/products/muddy-honey-12-ounce-jar), 2 tablespoons
 - [Whey Protein](https://fairlife.com/nutrition-plan/chocolate/), 60 g
