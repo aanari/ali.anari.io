@@ -15,6 +15,7 @@ favicon = "/favicon.ico"
 mode="toggle"
 useCDN=true
 description = "Personal website for Ali Anari"
+customCSS = ["css/custom.css"]
 
 [[params.social]]
 name = "GitHub"
@@ -45,3 +46,4 @@ weight = 4
 name = "Tags"
 url = "/tags"
 weight = 5
+

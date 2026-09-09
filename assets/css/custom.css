@@ -1,0 +1,10 @@
+/* Use Apple's system typeface when available, with close platform fallbacks. */
+body,
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.post-title,
+.post-meta,
+nav,
+footer {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+}
