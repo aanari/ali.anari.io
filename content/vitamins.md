@@ -13,7 +13,7 @@ A lot of friends and family members have asked me what medications, vitamins, an
 - [CoQ-10](https://www.amazon.com/gp/product/B0014BDZ88/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), 100 mg
 - Finasteride, 1 mg (Rx)
 - [Fiber Blend](https://www.vitaminshoppe.com/p/fiber-blend-300-capsules/vs-1191), 1.5 g
-- Metformin ER, 1,000 mg (Rx)
+- Metformin ER, 1 g (Rx)
 - Methylphenidate ER, 10 mg (Rx)
 - Minoxidil, 2.5 mg (Rx)
 - [NAC](https://www.amazon.com/dp/B008ML8D4O?psc=1&ref=ppx_yo2ov_dt_b_product_details), 1,200 mg
@@ -35,8 +35,8 @@ A lot of friends and family members have asked me what medications, vitamins, an
 ## Evening
 
 - [Calm Sleep](https://www.amazon.com/dp/B09345846G?ref=ppx_yo2ov_dt_b_product_details&th=1), 2 pills
-- [Glycine](https://www.amazon.com/dp/B00B35A394?lv=shuf&channelId=500&plpRedirect=mhFallback), 3,000 mg
-- [L-Tryptophan](https://www.amazon.com/Life-Extension-L-Tryptophan-vegetarian-capsules/dp/B00CC1S2IC), 1,000 mg
+- [Glycine](https://www.amazon.com/dp/B00B35A394?lv=shuf&channelId=500&plpRedirect=mhFallback), 3 g
+- [L-Tryptophan](https://www.amazon.com/Life-Extension-L-Tryptophan-vegetarian-capsules/dp/B00CC1S2IC), 1 g
 
 ## Other
 
